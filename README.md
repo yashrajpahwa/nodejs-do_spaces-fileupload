@@ -5,7 +5,7 @@
 
 - Add the .env file
 
-`touch .env`
+- `touch .env`
 
 - Add environment variables in the .env file
 
