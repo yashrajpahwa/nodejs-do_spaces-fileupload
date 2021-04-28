@@ -2,6 +2,8 @@
 
 > Nodejs file upload to Digital Ocean Spaces with Multer and Aws Sdk
 
+![CodeQL](https://github.com/yashrajpahwa/nodejs-do_spaces-fileupload/workflows/CodeQL/badge.svg)
+
 ### Technologies Used
 
 1. Node JS
